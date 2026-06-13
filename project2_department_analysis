@@ -1,0 +1,8 @@
+import pandas as pd
+
+employees = pd.read_csv("employees_1000.csv")
+
+department_salary = employees.groupby("Department")["Salary"].mean()
+
+print("AVERAGE SALARY BY DEPARTMENT")
+print(department_salary)

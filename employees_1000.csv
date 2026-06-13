@@ -1,0 +1,1001 @@
+Employee,Department,Salary,Score,Experience
+Employee_1,IT,447364,83,14
+Employee_2,Customer Support,264166,57,18
+Employee_3,Operations,411412,85,13
+Employee_4,HR,377977,57,5
+Employee_5,Marketing,791613,81,15
+Employee_6,Engineering,304845,73,20
+Employee_7,Sales,289040,72,19
+Employee_8,Customer Support,433362,71,16
+Employee_9,Customer Support,165978,93,18
+Employee_10,HR,453489,86,2
+Employee_11,Customer Support,656780,82,5
+Employee_12,Finance,588974,78,18
+Employee_13,Customer Support,720731,57,9
+Employee_14,IT,515201,62,17
+Employee_15,Marketing,468936,84,20
+Employee_16,HR,225396,55,10
+Employee_17,Engineering,609632,60,10
+Employee_18,Marketing,350421,84,10
+Employee_19,Marketing,503632,91,19
+Employee_20,Operations,349590,56,11
+Employee_21,Customer Support,756654,91,4
+Employee_22,Engineering,295643,56,3
+Employee_23,Engineering,618768,94,11
+Employee_24,Engineering,302124,84,7
+Employee_25,Engineering,533091,90,10
+Employee_26,Customer Support,597605,72,1
+Employee_27,Engineering,525524,59,4
+Employee_28,Finance,786258,78,3
+Employee_29,Finance,705805,78,16
+Employee_30,HR,415107,51,5
+Employee_31,Customer Support,256710,68,7
+Employee_32,IT,580757,73,12
+Employee_33,IT,500170,79,6
+Employee_34,Finance,203049,69,16
+Employee_35,Finance,376774,94,7
+Employee_36,Marketing,756608,70,7
+Employee_37,Engineering,600727,96,20
+Employee_38,Customer Support,291638,95,10
+Employee_39,IT,558081,98,16
+Employee_40,Marketing,247641,79,5
+Employee_41,Marketing,797364,63,4
+Employee_42,Marketing,422921,83,3
+Employee_43,IT,425608,53,9
+Employee_44,Sales,576982,89,11
+Employee_45,HR,174694,81,6
+Employee_46,IT,740300,79,17
+Employee_47,IT,206385,58,1
+Employee_48,Sales,448053,74,3
+Employee_49,Operations,427678,83,4
+Employee_50,Sales,179656,70,6
+Employee_51,Marketing,525551,50,7
+Employee_52,IT,620161,79,11
+Employee_53,Sales,569362,59,3
+Employee_54,Sales,491952,81,8
+Employee_55,HR,461053,68,13
+Employee_56,Operations,711310,90,1
+Employee_57,Engineering,163663,84,16
+Employee_58,HR,720119,80,13
+Employee_59,Customer Support,247486,70,3
+Employee_60,Engineering,557780,72,17
+Employee_61,Customer Support,699203,80,9
+Employee_62,Finance,744792,76,6
+Employee_63,HR,631898,58,16
+Employee_64,Finance,577276,92,14
+Employee_65,Customer Support,567684,93,12
+Employee_66,Marketing,520460,68,13
+Employee_67,Marketing,598121,96,20
+Employee_68,Marketing,458385,56,12
+Employee_69,HR,159223,82,1
+Employee_70,Customer Support,645045,72,16
+Employee_71,Customer Support,204783,66,12
+Employee_72,HR,335645,50,9
+Employee_73,Operations,578431,68,2
+Employee_74,HR,573404,99,5
+Employee_75,Customer Support,508068,68,1
+Employee_76,IT,255987,62,17
+Employee_77,Operations,666315,58,9
+Employee_78,Marketing,430941,96,1
+Employee_79,Marketing,710567,74,9
+Employee_80,IT,517401,50,12
+Employee_81,Engineering,197859,67,8
+Employee_82,HR,531554,74,17
+Employee_83,IT,302791,77,9
+Employee_84,Engineering,591192,53,3
+Employee_85,Marketing,517694,50,9
+Employee_86,Finance,434571,76,10
+Employee_87,Finance,352826,67,17
+Employee_88,Finance,391804,69,14
+Employee_89,Customer Support,652437,83,3
+Employee_90,Customer Support,298887,88,19
+Employee_91,Operations,442247,79,6
+Employee_92,Sales,434670,64,20
+Employee_93,Engineering,642833,67,11
+Employee_94,Engineering,183142,85,2
+Employee_95,Customer Support,716840,74,11
+Employee_96,Engineering,386930,96,16
+Employee_97,Customer Support,330599,80,11
+Employee_98,IT,517135,97,6
+Employee_99,Marketing,197380,89,19
+Employee_100,Marketing,546621,50,3
+Employee_101,IT,673355,69,8
+Employee_102,HR,786087,83,14
+Employee_103,Customer Support,768829,95,6
+Employee_104,Customer Support,354052,94,20
+Employee_105,Operations,256421,60,8
+Employee_106,Finance,492212,75,6
+Employee_107,Finance,678132,65,20
+Employee_108,Finance,716349,95,12
+Employee_109,Marketing,685301,99,18
+Employee_110,HR,433933,58,18
+Employee_111,Operations,234151,76,4
+Employee_112,Customer Support,618768,88,15
+Employee_113,IT,594392,100,16
+Employee_114,Sales,357544,63,18
+Employee_115,IT,197673,71,13
+Employee_116,Customer Support,535710,79,10
+Employee_117,Sales,753269,71,17
+Employee_118,HR,656441,63,6
+Employee_119,Engineering,780243,96,13
+Employee_120,Marketing,689406,93,17
+Employee_121,Engineering,604739,87,16
+Employee_122,IT,735912,81,18
+Employee_123,IT,579874,58,15
+Employee_124,Engineering,646430,70,7
+Employee_125,Sales,348561,82,1
+Employee_126,Marketing,780287,61,17
+Employee_127,Operations,341553,78,13
+Employee_128,Sales,405719,81,16
+Employee_129,Operations,489094,100,2
+Employee_130,Engineering,571625,61,3
+Employee_131,Sales,618673,70,11
+Employee_132,Finance,590270,97,12
+Employee_133,Finance,764800,62,12
+Employee_134,HR,205576,77,1
+Employee_135,Finance,157932,71,10
+Employee_136,IT,452696,68,5
+Employee_137,Customer Support,297659,59,5
+Employee_138,Finance,205232,51,6
+Employee_139,HR,698874,100,2
+Employee_140,Sales,776858,59,14
+Employee_141,Operations,533779,75,3
+Employee_142,Engineering,164985,79,7
+Employee_143,Customer Support,701990,83,5
+Employee_144,Sales,196916,87,1
+Employee_145,Customer Support,376494,57,10
+Employee_146,Finance,790421,89,4
+Employee_147,HR,374436,98,4
+Employee_148,IT,767070,86,13
+Employee_149,IT,685645,62,19
+Employee_150,IT,486205,68,7
+Employee_151,Customer Support,644521,60,4
+Employee_152,Engineering,173135,75,4
+Employee_153,IT,692493,66,14
+Employee_154,Engineering,763700,75,13
+Employee_155,HR,793449,67,20
+Employee_156,HR,555626,76,10
+Employee_157,IT,548683,88,6
+Employee_158,Marketing,455207,82,11
+Employee_159,Marketing,693416,85,5
+Employee_160,IT,169266,95,16
+Employee_161,Operations,442515,63,14
+Employee_162,HR,398751,50,9
+Employee_163,Sales,542180,84,16
+Employee_164,HR,328226,92,3
+Employee_165,Engineering,232964,78,9
+Employee_166,HR,739504,73,20
+Employee_167,Finance,689863,56,4
+Employee_168,Customer Support,429663,53,3
+Employee_169,IT,166739,57,3
+Employee_170,Marketing,282720,92,12
+Employee_171,IT,528401,66,17
+Employee_172,IT,223058,56,18
+Employee_173,Sales,179485,75,16
+Employee_174,Finance,487547,75,3
+Employee_175,Customer Support,358488,57,14
+Employee_176,Sales,464788,100,8
+Employee_177,Operations,482959,69,17
+Employee_178,Sales,293971,91,12
+Employee_179,IT,649855,92,10
+Employee_180,Operations,427173,67,2
+Employee_181,IT,271945,50,14
+Employee_182,IT,345448,56,2
+Employee_183,Engineering,574255,69,20
+Employee_184,IT,214052,92,13
+Employee_185,Customer Support,365746,95,9
+Employee_186,IT,533255,76,5
+Employee_187,IT,331869,72,3
+Employee_188,Customer Support,208374,54,20
+Employee_189,HR,196378,90,9
+Employee_190,Marketing,330653,51,12
+Employee_191,HR,793412,96,19
+Employee_192,Sales,220982,82,3
+Employee_193,HR,166231,88,11
+Employee_194,Sales,666898,79,13
+Employee_195,Marketing,675559,75,4
+Employee_196,Finance,281716,50,7
+Employee_197,Operations,236203,90,19
+Employee_198,HR,237681,94,16
+Employee_199,HR,297574,73,18
+Employee_200,Operations,773084,50,19
+Employee_201,Sales,683512,86,11
+Employee_202,Customer Support,681815,63,14
+Employee_203,Sales,184103,66,6
+Employee_204,Finance,190723,88,20
+Employee_205,HR,748412,55,17
+Employee_206,HR,325963,66,5
+Employee_207,IT,528330,73,1
+Employee_208,Engineering,360671,99,7
+Employee_209,IT,392992,90,12
+Employee_210,IT,337644,71,9
+Employee_211,IT,516194,92,13
+Employee_212,Sales,221548,77,15
+Employee_213,Marketing,306356,72,14
+Employee_214,Engineering,748911,97,10
+Employee_215,Marketing,376005,62,12
+Employee_216,HR,545093,93,10
+Employee_217,HR,518444,86,2
+Employee_218,IT,715534,64,17
+Employee_219,IT,534352,84,19
+Employee_220,Marketing,229187,92,15
+Employee_221,Finance,259998,59,12
+Employee_222,Operations,464091,62,13
+Employee_223,HR,464094,73,13
+Employee_224,Operations,738860,69,18
+Employee_225,Customer Support,605246,70,12
+Employee_226,IT,212843,95,6
+Employee_227,Finance,296672,93,15
+Employee_228,Marketing,211957,79,12
+Employee_229,Marketing,549298,66,17
+Employee_230,Engineering,665158,56,14
+Employee_231,HR,668780,78,15
+Employee_232,Sales,657487,99,3
+Employee_233,Sales,231515,64,6
+Employee_234,Customer Support,718722,77,20
+Employee_235,Finance,634453,63,3
+Employee_236,HR,282794,68,18
+Employee_237,Sales,277988,70,2
+Employee_238,HR,269538,85,9
+Employee_239,HR,306517,77,2
+Employee_240,HR,345429,70,2
+Employee_241,Engineering,641564,72,3
+Employee_242,IT,588138,90,12
+Employee_243,Sales,461523,89,11
+Employee_244,Customer Support,194610,91,2
+Employee_245,IT,436162,81,9
+Employee_246,Marketing,198795,58,5
+Employee_247,Customer Support,292977,59,2
+Employee_248,Marketing,463679,83,3
+Employee_249,Operations,664194,67,14
+Employee_250,Customer Support,547496,78,15
+Employee_251,HR,200517,77,12
+Employee_252,Finance,600202,79,11
+Employee_253,IT,601604,65,17
+Employee_254,Engineering,541536,89,17
+Employee_255,Marketing,231966,90,2
+Employee_256,Sales,681205,90,18
+Employee_257,Engineering,261698,100,3
+Employee_258,IT,304328,98,2
+Employee_259,Operations,695420,83,12
+Employee_260,IT,644481,78,18
+Employee_261,Operations,255710,68,5
+Employee_262,Marketing,580419,66,9
+Employee_263,Sales,314972,100,18
+Employee_264,Finance,291429,72,2
+Employee_265,Finance,435626,58,16
+Employee_266,Marketing,233014,70,11
+Employee_267,Sales,797669,65,15
+Employee_268,Finance,389895,68,9
+Employee_269,Customer Support,243826,69,20
+Employee_270,Marketing,658406,99,6
+Employee_271,Operations,641245,66,13
+Employee_272,Operations,718387,70,4
+Employee_273,Finance,766211,85,11
+Employee_274,Sales,254210,96,17
+Employee_275,IT,168860,64,10
+Employee_276,Finance,304677,62,3
+Employee_277,Engineering,765885,100,11
+Employee_278,Finance,689144,55,1
+Employee_279,Sales,324829,50,8
+Employee_280,Marketing,581194,88,4
+Employee_281,Finance,168718,92,2
+Employee_282,Marketing,540090,87,7
+Employee_283,HR,709541,70,10
+Employee_284,IT,466981,53,10
+Employee_285,Engineering,514056,85,16
+Employee_286,Engineering,636750,63,12
+Employee_287,Operations,488178,84,18
+Employee_288,HR,693755,69,20
+Employee_289,Customer Support,173299,82,11
+Employee_290,Sales,586779,100,12
+Employee_291,IT,241187,69,18
+Employee_292,IT,407810,90,6
+Employee_293,Engineering,160318,80,14
+Employee_294,Finance,627478,66,5
+Employee_295,Operations,522211,83,17
+Employee_296,Marketing,546008,64,12
+Employee_297,Marketing,743441,84,6
+Employee_298,Engineering,424385,88,7
+Employee_299,Customer Support,715916,96,13
+Employee_300,Customer Support,164819,76,10
+Employee_301,Finance,424343,51,17
+Employee_302,Customer Support,239777,94,20
+Employee_303,HR,403953,66,9
+Employee_304,HR,662827,73,10
+Employee_305,IT,789305,86,4
+Employee_306,Operations,245696,73,2
+Employee_307,Customer Support,400587,65,4
+Employee_308,IT,594130,59,9
+Employee_309,IT,237804,89,8
+Employee_310,Operations,168992,89,14
+Employee_311,IT,317515,67,13
+Employee_312,Marketing,485566,50,5
+Employee_313,Customer Support,517269,65,10
+Employee_314,Finance,250852,87,19
+Employee_315,Sales,381086,70,8
+Employee_316,HR,692249,65,20
+Employee_317,Marketing,667792,87,15
+Employee_318,HR,465361,95,14
+Employee_319,Sales,352413,80,11
+Employee_320,Marketing,317873,51,17
+Employee_321,Operations,250920,87,18
+Employee_322,IT,426015,55,17
+Employee_323,Finance,560395,79,15
+Employee_324,Engineering,335253,97,6
+Employee_325,Operations,687128,57,15
+Employee_326,Marketing,702069,92,7
+Employee_327,Finance,363542,53,6
+Employee_328,IT,710474,62,8
+Employee_329,IT,524183,82,1
+Employee_330,HR,751446,64,17
+Employee_331,Engineering,158454,54,19
+Employee_332,Sales,336620,68,14
+Employee_333,HR,530681,77,19
+Employee_334,HR,575806,62,18
+Employee_335,Sales,161877,91,1
+Employee_336,IT,761090,53,17
+Employee_337,HR,217623,50,2
+Employee_338,Engineering,317804,95,18
+Employee_339,Marketing,378741,83,20
+Employee_340,Customer Support,797895,58,6
+Employee_341,Customer Support,361589,69,6
+Employee_342,IT,752513,100,1
+Employee_343,Customer Support,681606,85,20
+Employee_344,HR,682295,95,1
+Employee_345,Finance,229297,60,12
+Employee_346,Operations,377069,56,3
+Employee_347,Customer Support,176493,99,14
+Employee_348,Engineering,433445,87,15
+Employee_349,Operations,475598,93,16
+Employee_350,Operations,342478,67,17
+Employee_351,HR,585514,65,11
+Employee_352,Customer Support,218152,54,7
+Employee_353,Finance,421297,53,12
+Employee_354,Finance,667415,81,12
+Employee_355,Finance,404189,89,15
+Employee_356,Customer Support,694442,87,5
+Employee_357,Sales,745097,78,19
+Employee_358,Marketing,781827,85,18
+Employee_359,IT,319766,71,6
+Employee_360,Operations,764067,88,9
+Employee_361,Operations,499186,50,5
+Employee_362,Finance,477382,50,18
+Employee_363,IT,253458,53,7
+Employee_364,IT,166418,82,12
+Employee_365,Engineering,230884,99,16
+Employee_366,Customer Support,696108,66,10
+Employee_367,Operations,761890,82,2
+Employee_368,Sales,771911,55,1
+Employee_369,Engineering,206339,75,13
+Employee_370,Finance,553437,57,4
+Employee_371,Operations,449378,84,20
+Employee_372,Finance,444181,54,8
+Employee_373,Marketing,599874,88,12
+Employee_374,IT,745759,51,1
+Employee_375,Marketing,240729,96,2
+Employee_376,Operations,503510,50,16
+Employee_377,Engineering,458372,77,12
+Employee_378,HR,633656,85,12
+Employee_379,Sales,673466,90,6
+Employee_380,Marketing,252124,56,5
+Employee_381,Operations,677264,71,17
+Employee_382,Sales,613505,88,6
+Employee_383,HR,583630,71,5
+Employee_384,Marketing,751693,66,11
+Employee_385,IT,430770,58,16
+Employee_386,Engineering,379788,71,2
+Employee_387,Operations,762943,85,19
+Employee_388,HR,706310,78,5
+Employee_389,Sales,343785,55,10
+Employee_390,Sales,292451,96,14
+Employee_391,Sales,240177,78,11
+Employee_392,HR,756004,87,5
+Employee_393,Marketing,732396,90,10
+Employee_394,Engineering,416357,68,18
+Employee_395,HR,752221,54,14
+Employee_396,Operations,188690,100,1
+Employee_397,Sales,705230,88,16
+Employee_398,HR,258775,54,1
+Employee_399,Marketing,764251,52,2
+Employee_400,Sales,355274,70,8
+Employee_401,Engineering,620491,51,5
+Employee_402,Operations,416381,71,10
+Employee_403,Operations,252772,83,15
+Employee_404,IT,729208,90,15
+Employee_405,Finance,364766,85,16
+Employee_406,Customer Support,308277,56,14
+Employee_407,HR,665199,52,17
+Employee_408,Engineering,524656,81,12
+Employee_409,Operations,760503,90,2
+Employee_410,HR,310588,87,4
+Employee_411,Marketing,458487,89,20
+Employee_412,Customer Support,555389,53,11
+Employee_413,Marketing,540105,73,12
+Employee_414,Operations,602238,88,10
+Employee_415,Sales,264085,81,11
+Employee_416,Sales,391708,85,8
+Employee_417,Engineering,642098,58,16
+Employee_418,Customer Support,208361,65,7
+Employee_419,Sales,237201,67,6
+Employee_420,Sales,693087,50,2
+Employee_421,Operations,496698,99,16
+Employee_422,Sales,409715,82,16
+Employee_423,Engineering,152777,93,15
+Employee_424,Operations,189142,67,6
+Employee_425,Engineering,313479,71,12
+Employee_426,Engineering,412727,79,18
+Employee_427,IT,509128,84,9
+Employee_428,Engineering,151890,72,20
+Employee_429,Engineering,239551,59,7
+Employee_430,Sales,492373,79,16
+Employee_431,Customer Support,440721,87,17
+Employee_432,IT,792127,52,11
+Employee_433,IT,440532,69,4
+Employee_434,IT,603677,73,19
+Employee_435,HR,598585,51,12
+Employee_436,Engineering,151983,73,20
+Employee_437,HR,788620,54,1
+Employee_438,Operations,481494,70,19
+Employee_439,Marketing,246880,87,4
+Employee_440,IT,460385,69,14
+Employee_441,Operations,621535,90,15
+Employee_442,Engineering,564417,77,15
+Employee_443,Sales,278763,82,3
+Employee_444,HR,481083,81,12
+Employee_445,IT,338703,71,9
+Employee_446,HR,276350,64,14
+Employee_447,HR,395044,90,11
+Employee_448,IT,440246,83,12
+Employee_449,Operations,364329,89,17
+Employee_450,Engineering,765240,94,10
+Employee_451,Engineering,433055,52,4
+Employee_452,IT,611134,78,12
+Employee_453,Sales,705643,64,16
+Employee_454,Finance,420374,97,17
+Employee_455,IT,518832,67,11
+Employee_456,Operations,460625,84,16
+Employee_457,Operations,277838,89,17
+Employee_458,Finance,373000,65,3
+Employee_459,Marketing,562734,99,18
+Employee_460,Finance,701355,86,14
+Employee_461,IT,446066,80,14
+Employee_462,Operations,449143,92,7
+Employee_463,Operations,352965,82,16
+Employee_464,Engineering,191381,51,7
+Employee_465,Sales,417665,99,4
+Employee_466,Customer Support,435814,81,9
+Employee_467,HR,539917,67,10
+Employee_468,IT,768251,72,1
+Employee_469,Customer Support,729294,72,18
+Employee_470,Sales,349737,58,13
+Employee_471,HR,585578,76,15
+Employee_472,Customer Support,252318,94,7
+Employee_473,Finance,563557,68,1
+Employee_474,Marketing,416228,99,8
+Employee_475,HR,374038,81,5
+Employee_476,Operations,601929,99,15
+Employee_477,IT,493075,66,7
+Employee_478,Engineering,422499,93,12
+Employee_479,Marketing,668906,91,14
+Employee_480,Customer Support,777997,53,16
+Employee_481,Operations,727395,77,8
+Employee_482,Customer Support,339712,88,12
+Employee_483,Finance,323167,80,3
+Employee_484,IT,267202,62,7
+Employee_485,Engineering,257069,82,16
+Employee_486,Customer Support,521484,100,11
+Employee_487,Sales,388450,79,7
+Employee_488,Engineering,176112,59,4
+Employee_489,IT,493336,67,2
+Employee_490,Marketing,691808,98,15
+Employee_491,Finance,492819,61,10
+Employee_492,Sales,433400,85,1
+Employee_493,IT,376520,93,20
+Employee_494,Sales,434245,100,19
+Employee_495,IT,218038,81,20
+Employee_496,Marketing,170340,69,11
+Employee_497,HR,422762,71,14
+Employee_498,Sales,675370,86,16
+Employee_499,Customer Support,450690,83,18
+Employee_500,Sales,528528,84,11
+Employee_501,Marketing,654495,63,8
+Employee_502,Marketing,255043,65,1
+Employee_503,HR,588616,99,7
+Employee_504,Marketing,220270,91,14
+Employee_505,HR,400996,84,18
+Employee_506,Customer Support,219782,96,15
+Employee_507,Operations,659736,91,3
+Employee_508,Finance,409469,69,13
+Employee_509,Customer Support,540554,84,14
+Employee_510,IT,369691,57,7
+Employee_511,Customer Support,442137,93,17
+Employee_512,Operations,458915,76,14
+Employee_513,Operations,764806,79,20
+Employee_514,Sales,234663,98,6
+Employee_515,Engineering,163429,66,2
+Employee_516,Operations,573274,74,2
+Employee_517,IT,704861,68,10
+Employee_518,Customer Support,745342,90,13
+Employee_519,Customer Support,342106,70,2
+Employee_520,Marketing,726394,70,11
+Employee_521,Engineering,469617,95,16
+Employee_522,Operations,584461,75,15
+Employee_523,Engineering,669229,52,7
+Employee_524,Marketing,742769,93,1
+Employee_525,Finance,554059,58,10
+Employee_526,Customer Support,448732,74,14
+Employee_527,HR,775013,56,10
+Employee_528,IT,313098,63,16
+Employee_529,HR,269583,83,4
+Employee_530,Finance,451697,61,3
+Employee_531,Customer Support,671218,93,17
+Employee_532,Operations,322789,99,14
+Employee_533,Marketing,434013,84,10
+Employee_534,Marketing,163087,57,9
+Employee_535,Marketing,634463,60,17
+Employee_536,Finance,458999,82,16
+Employee_537,Finance,636876,96,19
+Employee_538,IT,788884,53,10
+Employee_539,Finance,451217,59,5
+Employee_540,Finance,283052,77,9
+Employee_541,Operations,215602,88,14
+Employee_542,Engineering,718048,99,16
+Employee_543,Finance,538246,98,4
+Employee_544,IT,315886,59,6
+Employee_545,Engineering,287744,71,1
+Employee_546,IT,463722,97,13
+Employee_547,Sales,688209,95,14
+Employee_548,HR,255463,95,7
+Employee_549,Marketing,563333,87,4
+Employee_550,HR,388152,64,14
+Employee_551,Sales,287378,55,6
+Employee_552,HR,477164,83,1
+Employee_553,Operations,552175,96,8
+Employee_554,Sales,405189,91,19
+Employee_555,IT,727642,96,15
+Employee_556,IT,160272,60,14
+Employee_557,Sales,614678,71,19
+Employee_558,Engineering,280502,80,12
+Employee_559,Customer Support,278337,53,8
+Employee_560,Customer Support,294852,71,1
+Employee_561,IT,683263,60,5
+Employee_562,Customer Support,162544,98,19
+Employee_563,HR,773109,67,14
+Employee_564,Engineering,614636,64,20
+Employee_565,Sales,795053,99,1
+Employee_566,IT,206022,85,11
+Employee_567,HR,765737,58,17
+Employee_568,Operations,279008,86,9
+Employee_569,IT,363410,81,18
+Employee_570,Operations,493999,95,17
+Employee_571,Engineering,621283,95,13
+Employee_572,HR,607118,70,5
+Employee_573,HR,624247,56,18
+Employee_574,Marketing,524821,79,4
+Employee_575,Marketing,697977,64,12
+Employee_576,Finance,652084,54,1
+Employee_577,Operations,792842,93,8
+Employee_578,Customer Support,677123,62,11
+Employee_579,Operations,769950,53,18
+Employee_580,Engineering,675447,82,14
+Employee_581,Sales,360112,59,17
+Employee_582,Sales,786878,90,3
+Employee_583,Sales,155025,64,19
+Employee_584,Operations,729327,75,20
+Employee_585,Customer Support,361521,88,14
+Employee_586,Customer Support,777447,78,9
+Employee_587,Engineering,323554,59,19
+Employee_588,Operations,152540,81,6
+Employee_589,HR,487635,90,1
+Employee_590,Customer Support,403085,76,12
+Employee_591,IT,598749,71,20
+Employee_592,Customer Support,221535,67,5
+Employee_593,Finance,315042,91,3
+Employee_594,Operations,582556,64,2
+Employee_595,IT,711589,78,19
+Employee_596,Marketing,248685,76,14
+Employee_597,Engineering,786686,95,16
+Employee_598,Operations,264181,86,20
+Employee_599,Finance,370362,79,20
+Employee_600,Finance,788146,60,12
+Employee_601,Sales,498160,71,19
+Employee_602,Finance,672978,82,4
+Employee_603,Sales,428638,98,13
+Employee_604,IT,472515,83,2
+Employee_605,Finance,744315,83,10
+Employee_606,Operations,659333,65,14
+Employee_607,Customer Support,589031,63,4
+Employee_608,IT,614960,51,14
+Employee_609,Engineering,176811,88,17
+Employee_610,Finance,720426,99,20
+Employee_611,Operations,442274,64,10
+Employee_612,IT,496510,57,7
+Employee_613,HR,399079,66,4
+Employee_614,Operations,654193,92,18
+Employee_615,Sales,284949,58,5
+Employee_616,Operations,168776,83,4
+Employee_617,HR,256039,100,16
+Employee_618,Operations,506567,72,5
+Employee_619,Marketing,442135,82,2
+Employee_620,HR,468874,52,14
+Employee_621,Marketing,499388,67,15
+Employee_622,Operations,201530,84,19
+Employee_623,Engineering,329651,72,8
+Employee_624,Operations,579099,59,16
+Employee_625,Sales,532758,84,15
+Employee_626,IT,186924,74,14
+Employee_627,Operations,175957,71,20
+Employee_628,Customer Support,570309,68,3
+Employee_629,Customer Support,258626,72,15
+Employee_630,HR,361538,55,14
+Employee_631,Operations,695085,59,5
+Employee_632,IT,740111,100,12
+Employee_633,HR,581955,95,7
+Employee_634,IT,334729,56,2
+Employee_635,Finance,484468,75,11
+Employee_636,Sales,774552,55,17
+Employee_637,Operations,718538,53,15
+Employee_638,Customer Support,361450,82,18
+Employee_639,Finance,627804,92,6
+Employee_640,Operations,301791,93,6
+Employee_641,Marketing,348102,70,6
+Employee_642,HR,592625,51,12
+Employee_643,Operations,233818,76,7
+Employee_644,Engineering,265977,79,17
+Employee_645,HR,648056,82,10
+Employee_646,Customer Support,347238,99,1
+Employee_647,Operations,355042,99,12
+Employee_648,IT,625495,56,7
+Employee_649,Marketing,398014,64,12
+Employee_650,Finance,532259,58,3
+Employee_651,Marketing,230064,85,16
+Employee_652,Sales,205360,84,3
+Employee_653,Engineering,319505,55,17
+Employee_654,IT,415757,75,5
+Employee_655,HR,331732,70,2
+Employee_656,Engineering,364015,90,14
+Employee_657,Marketing,325542,58,9
+Employee_658,IT,687221,92,12
+Employee_659,Customer Support,777115,57,18
+Employee_660,IT,791659,97,15
+Employee_661,Sales,562473,71,17
+Employee_662,Sales,473830,88,20
+Employee_663,Customer Support,575673,53,18
+Employee_664,Finance,179073,83,16
+Employee_665,Customer Support,666691,51,20
+Employee_666,Marketing,762864,66,18
+Employee_667,Customer Support,618901,51,9
+Employee_668,Customer Support,730717,64,3
+Employee_669,Customer Support,627169,73,20
+Employee_670,Finance,436443,69,1
+Employee_671,HR,298329,77,14
+Employee_672,Sales,685877,54,6
+Employee_673,Engineering,752865,82,11
+Employee_674,Marketing,230816,96,1
+Employee_675,Engineering,484920,62,2
+Employee_676,Finance,177074,56,17
+Employee_677,Engineering,575268,71,16
+Employee_678,Sales,355492,57,16
+Employee_679,Finance,737528,78,15
+Employee_680,Engineering,599329,81,15
+Employee_681,IT,632921,93,2
+Employee_682,Sales,155045,53,17
+Employee_683,Customer Support,386986,71,3
+Employee_684,Operations,749430,94,11
+Employee_685,Customer Support,424608,57,5
+Employee_686,Sales,466562,66,2
+Employee_687,Operations,242001,95,3
+Employee_688,Engineering,509411,72,19
+Employee_689,Customer Support,309079,63,16
+Employee_690,Marketing,415686,83,16
+Employee_691,Finance,153394,95,16
+Employee_692,HR,291270,100,19
+Employee_693,HR,227625,68,9
+Employee_694,Finance,337293,84,5
+Employee_695,Operations,217363,59,9
+Employee_696,Sales,526860,85,10
+Employee_697,Engineering,540842,65,7
+Employee_698,Operations,680302,87,12
+Employee_699,Marketing,695601,51,7
+Employee_700,Marketing,510192,78,12
+Employee_701,Customer Support,727179,70,8
+Employee_702,Customer Support,216452,59,19
+Employee_703,HR,746442,76,18
+Employee_704,Operations,533648,88,5
+Employee_705,Customer Support,507098,98,19
+Employee_706,Sales,298160,67,13
+Employee_707,Engineering,301146,74,1
+Employee_708,Sales,509613,99,3
+Employee_709,Marketing,596820,67,7
+Employee_710,Sales,479357,53,1
+Employee_711,HR,791562,100,17
+Employee_712,Engineering,688236,98,2
+Employee_713,Marketing,568389,62,12
+Employee_714,Finance,201366,83,10
+Employee_715,Marketing,396535,90,8
+Employee_716,IT,425684,70,14
+Employee_717,Operations,429693,60,5
+Employee_718,Operations,362477,57,13
+Employee_719,Customer Support,755481,65,7
+Employee_720,Sales,676957,70,15
+Employee_721,Engineering,578992,98,10
+Employee_722,IT,725919,92,20
+Employee_723,Sales,469484,79,5
+Employee_724,IT,190266,52,18
+Employee_725,Engineering,720347,84,4
+Employee_726,Marketing,762871,96,1
+Employee_727,Finance,779996,72,3
+Employee_728,Finance,404154,97,14
+Employee_729,Customer Support,757459,61,2
+Employee_730,Customer Support,241160,73,18
+Employee_731,Finance,387815,65,19
+Employee_732,HR,530028,97,4
+Employee_733,Marketing,237074,50,8
+Employee_734,IT,759250,54,7
+Employee_735,Engineering,509857,89,12
+Employee_736,Finance,428044,89,20
+Employee_737,HR,606052,63,4
+Employee_738,Engineering,487711,51,1
+Employee_739,Finance,401468,57,5
+Employee_740,Marketing,770914,53,15
+Employee_741,Operations,626734,68,2
+Employee_742,Customer Support,710163,64,17
+Employee_743,Operations,650435,79,11
+Employee_744,Customer Support,776502,71,19
+Employee_745,Engineering,252311,60,1
+Employee_746,Sales,392424,94,3
+Employee_747,Engineering,550351,62,20
+Employee_748,Marketing,346260,92,20
+Employee_749,IT,496239,78,9
+Employee_750,Marketing,301604,72,18
+Employee_751,Operations,582178,88,8
+Employee_752,HR,268002,83,11
+Employee_753,IT,500827,76,18
+Employee_754,Marketing,377764,95,19
+Employee_755,Finance,190257,100,11
+Employee_756,IT,699940,56,17
+Employee_757,Marketing,279494,50,18
+Employee_758,Customer Support,518796,81,20
+Employee_759,IT,708320,95,1
+Employee_760,Customer Support,227389,50,18
+Employee_761,IT,695844,71,2
+Employee_762,HR,510936,84,2
+Employee_763,Sales,605161,89,8
+Employee_764,Operations,382507,75,11
+Employee_765,IT,503242,54,19
+Employee_766,IT,533711,90,18
+Employee_767,Marketing,483788,72,14
+Employee_768,IT,564209,77,12
+Employee_769,Finance,181090,78,15
+Employee_770,Operations,690635,82,10
+Employee_771,IT,450059,65,11
+Employee_772,IT,409163,54,19
+Employee_773,Marketing,617689,57,5
+Employee_774,Customer Support,238465,62,8
+Employee_775,Engineering,706224,80,19
+Employee_776,Engineering,181732,81,15
+Employee_777,Engineering,705708,100,10
+Employee_778,IT,546145,68,11
+Employee_779,Finance,184880,64,8
+Employee_780,Marketing,794169,63,13
+Employee_781,Operations,219370,60,14
+Employee_782,Marketing,179485,92,10
+Employee_783,Sales,561976,100,15
+Employee_784,Engineering,554845,86,3
+Employee_785,Customer Support,505002,98,9
+Employee_786,HR,632656,50,10
+Employee_787,Operations,337799,60,16
+Employee_788,IT,411584,61,19
+Employee_789,Finance,414537,80,15
+Employee_790,HR,479414,57,6
+Employee_791,IT,160578,90,14
+Employee_792,Finance,299375,99,18
+Employee_793,Engineering,509602,72,1
+Employee_794,Operations,209765,93,16
+Employee_795,Engineering,600375,93,11
+Employee_796,Customer Support,155171,64,15
+Employee_797,Customer Support,533255,95,11
+Employee_798,Engineering,762681,54,19
+Employee_799,Sales,752045,83,19
+Employee_800,Engineering,260534,74,13
+Employee_801,Finance,630540,56,18
+Employee_802,Customer Support,327281,80,17
+Employee_803,Operations,367295,82,4
+Employee_804,Sales,507439,77,17
+Employee_805,IT,492519,67,8
+Employee_806,Finance,641053,98,9
+Employee_807,Finance,240598,59,4
+Employee_808,Sales,594124,58,1
+Employee_809,Operations,657005,65,11
+Employee_810,Engineering,334696,89,3
+Employee_811,Operations,521988,73,10
+Employee_812,Marketing,481298,97,20
+Employee_813,Finance,267881,50,15
+Employee_814,Marketing,389390,79,6
+Employee_815,HR,206374,78,10
+Employee_816,IT,218151,71,8
+Employee_817,HR,570652,94,8
+Employee_818,Sales,777659,52,10
+Employee_819,Sales,399288,98,11
+Employee_820,Operations,233148,96,8
+Employee_821,Marketing,184395,50,7
+Employee_822,Customer Support,360761,81,20
+Employee_823,Customer Support,273570,72,4
+Employee_824,Engineering,301252,88,16
+Employee_825,Operations,499651,72,13
+Employee_826,Operations,377165,90,12
+Employee_827,Sales,606289,89,15
+Employee_828,Finance,232083,100,5
+Employee_829,IT,752550,76,15
+Employee_830,Finance,419386,53,8
+Employee_831,Marketing,506553,81,8
+Employee_832,Finance,312540,93,6
+Employee_833,IT,758622,74,15
+Employee_834,Operations,252282,93,6
+Employee_835,Sales,429814,82,9
+Employee_836,Customer Support,667380,55,13
+Employee_837,HR,486505,55,4
+Employee_838,IT,777375,86,20
+Employee_839,Finance,604951,66,19
+Employee_840,Sales,552548,74,18
+Employee_841,Finance,188847,69,20
+Employee_842,HR,328851,90,9
+Employee_843,Marketing,292236,71,18
+Employee_844,Sales,737868,69,14
+Employee_845,Operations,566326,99,2
+Employee_846,IT,763775,84,8
+Employee_847,Customer Support,258768,73,20
+Employee_848,IT,458507,83,3
+Employee_849,Engineering,649216,77,18
+Employee_850,Customer Support,601939,63,18
+Employee_851,Engineering,470070,93,4
+Employee_852,Finance,343182,75,1
+Employee_853,Finance,223487,60,5
+Employee_854,Finance,475191,95,18
+Employee_855,Finance,498333,76,11
+Employee_856,HR,549539,78,11
+Employee_857,Operations,423286,59,10
+Employee_858,Customer Support,463259,78,20
+Employee_859,Operations,736079,74,7
+Employee_860,IT,228881,97,7
+Employee_861,HR,371241,77,1
+Employee_862,Customer Support,606964,68,5
+Employee_863,IT,303265,70,20
+Employee_864,Sales,690807,94,14
+Employee_865,Finance,332127,84,9
+Employee_866,Customer Support,296132,57,18
+Employee_867,Customer Support,327856,50,9
+Employee_868,Customer Support,420319,85,11
+Employee_869,HR,296634,94,4
+Employee_870,Engineering,786159,59,17
+Employee_871,HR,347610,51,4
+Employee_872,HR,343142,54,16
+Employee_873,IT,624752,52,3
+Employee_874,Customer Support,220913,79,14
+Employee_875,Customer Support,169104,66,9
+Employee_876,HR,230799,92,7
+Employee_877,Finance,261297,88,10
+Employee_878,Finance,224081,53,7
+Employee_879,HR,211823,60,2
+Employee_880,Engineering,545170,56,4
+Employee_881,Customer Support,564138,81,17
+Employee_882,HR,602763,81,11
+Employee_883,Operations,201934,72,5
+Employee_884,IT,315248,92,8
+Employee_885,IT,585455,73,14
+Employee_886,IT,630378,98,7
+Employee_887,IT,522712,79,14
+Employee_888,Finance,721376,91,14
+Employee_889,HR,169670,97,15
+Employee_890,Finance,483315,79,11
+Employee_891,Operations,779834,93,15
+Employee_892,Engineering,389619,55,4
+Employee_893,Marketing,155535,60,8
+Employee_894,IT,436744,84,16
+Employee_895,Engineering,186110,66,11
+Employee_896,Finance,306277,51,4
+Employee_897,Engineering,747275,80,1
+Employee_898,Marketing,380302,99,18
+Employee_899,Engineering,231083,60,16
+Employee_900,Customer Support,457383,92,7
+Employee_901,Finance,668112,86,5
+Employee_902,HR,340242,57,17
+Employee_903,Customer Support,476662,59,15
+Employee_904,Engineering,178176,71,5
+Employee_905,Customer Support,434490,50,16
+Employee_906,Engineering,274639,95,11
+Employee_907,Sales,192025,53,2
+Employee_908,Finance,737498,62,3
+Employee_909,IT,275189,97,11
+Employee_910,Sales,760775,88,16
+Employee_911,IT,541693,55,4
+Employee_912,IT,647925,51,18
+Employee_913,Marketing,373832,84,17
+Employee_914,Engineering,698215,79,4
+Employee_915,Customer Support,742544,86,6
+Employee_916,HR,385026,57,8
+Employee_917,IT,211111,82,4
+Employee_918,IT,195891,72,12
+Employee_919,Operations,451346,64,20
+Employee_920,Customer Support,539025,58,6
+Employee_921,HR,725734,58,6
+Employee_922,Finance,776317,67,20
+Employee_923,Marketing,542396,60,14
+Employee_924,Customer Support,174879,51,20
+Employee_925,Engineering,454975,81,10
+Employee_926,Marketing,372703,63,2
+Employee_927,Marketing,391951,50,17
+Employee_928,IT,196785,70,10
+Employee_929,Sales,779365,66,12
+Employee_930,Marketing,347107,62,6
+Employee_931,Customer Support,394735,71,2
+Employee_932,HR,406844,50,4
+Employee_933,IT,200079,81,16
+Employee_934,Customer Support,615368,89,16
+Employee_935,HR,252341,83,13
+Employee_936,Finance,479940,88,4
+Employee_937,Operations,664350,76,12
+Employee_938,IT,365905,99,11
+Employee_939,Sales,356923,77,19
+Employee_940,Engineering,759700,54,9
+Employee_941,Engineering,337533,97,15
+Employee_942,Engineering,739762,50,15
+Employee_943,Operations,233435,59,20
+Employee_944,Sales,503780,90,13
+Employee_945,Sales,195444,94,10
+Employee_946,Customer Support,578922,71,5
+Employee_947,Customer Support,336376,90,10
+Employee_948,Finance,272592,100,2
+Employee_949,HR,361587,82,16
+Employee_950,HR,668047,98,14
+Employee_951,IT,207776,63,13
+Employee_952,Finance,784360,87,4
+Employee_953,HR,257163,61,10
+Employee_954,Sales,178428,74,17
+Employee_955,Marketing,334011,86,4
+Employee_956,IT,292399,54,15
+Employee_957,Marketing,253140,78,17
+Employee_958,Sales,540310,54,6
+Employee_959,Operations,798277,60,6
+Employee_960,HR,393178,59,2
+Employee_961,Customer Support,754745,66,3
+Employee_962,Operations,217311,61,5
+Employee_963,HR,578148,87,15
+Employee_964,Sales,695130,62,3
+Employee_965,HR,187691,54,10
+Employee_966,Finance,196539,72,5
+Employee_967,Operations,657228,60,19
+Employee_968,Sales,798216,73,15
+Employee_969,HR,508244,90,12
+Employee_970,Customer Support,503739,87,9
+Employee_971,Customer Support,457180,71,14
+Employee_972,Customer Support,790637,73,2
+Employee_973,Engineering,516437,59,11
+Employee_974,Customer Support,561838,61,18
+Employee_975,Operations,367636,67,16
+Employee_976,HR,766164,51,10
+Employee_977,Engineering,196182,51,8
+Employee_978,Marketing,410017,85,17
+Employee_979,Finance,399974,59,17
+Employee_980,HR,526369,51,7
+Employee_981,Engineering,218643,58,15
+Employee_982,IT,573548,74,11
+Employee_983,IT,707238,54,12
+Employee_984,IT,217741,55,11
+Employee_985,Engineering,724835,81,15
+Employee_986,HR,629409,63,7
+Employee_987,Customer Support,267460,58,19
+Employee_988,Engineering,785145,71,17
+Employee_989,Engineering,346232,76,6
+Employee_990,HR,234885,80,3
+Employee_991,Engineering,190878,83,17
+Employee_992,Finance,329091,74,19
+Employee_993,Engineering,665857,91,20
+Employee_994,Sales,630575,69,1
+Employee_995,IT,713606,63,4
+Employee_996,IT,762119,79,6
+Employee_997,Finance,256437,52,18
+Employee_998,Engineering,190813,74,20
+Employee_999,Marketing,444785,50,16
+Employee_1000,Engineering,732509,100,7

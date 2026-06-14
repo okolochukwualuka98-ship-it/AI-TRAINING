@@ -1,22 +1,37 @@
-# AI TRAINING
 
-My Python Foundation Projects.
+# AI TRAINING PORTFOLIO
 
-This repository contains Python programs created while learning Python fundamentals:
+## Data Analytics Projects by Kingsley Lukas
 
-- Variables
-- Input and Output
-- Conditions
-- Loops
-- Lists
-- Student Management
-- Banking Programs
-- Guessing Games
-- Score Analysis
-- Multiplication Tables
+This repository contains my practical projects while learning:
+
+- Python Fundamentals
+- Pandas Data Analysis
+- SQL for Data Analytics
+- Power BI Dashboard Development
+
+## Project Structure
+
+### Python_Foundation
+Python fundamentals and beginner exercises.
+
+### Pandas_Projects
+Data cleaning, analysis, reporting and visualization projects using Pandas.
+
+### SQL_Projects
+SQL-based analytics projects using SQLite databases.
+
+### powerBI_projects
+Interactive dashboards created with Power BI.
+
+## Tools Used
+
+- Python
+- Pandas
+- SQLite
+- Power BI
+- Git & GitHub
 
 ## Author
-Kingsley Lukas
 
-## Goal
-To document my journey from Python beginner to AI Engineer and Data Analyst.
+Kingsley Lukas
